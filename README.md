@@ -1,2 +1,3 @@
-# multiplication-chart
-Multiplication Chart Generator (HTML)
+# Multiplication Chart Generator (HTML)
+
+Simple online tool to create printable multiplication charts for student and personal use.
